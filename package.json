@@ -1,5 +1,5 @@
 {
-  "name": "level-browserify",
+  "name": "level-browserify-es5",
   "description": "Fast & simple storage - a Node.js-style LevelDB wrapper (a convenience package bundling LevelUP & LevelDOWN or Level.js)",
   "version": "1.0.0",
   "contributors": [
@@ -19,9 +19,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Level/level-browserify.git"
+    "url": "https://github.com/fulcrumapp/level-browserify.git"
   },
-  "homepage": "https://github.com/Level/level-browserify",
+  "homepage": "https://github.com/fulcrumapp/level-browserify",
   "keywords": [
     "leveldb",
     "stream",
